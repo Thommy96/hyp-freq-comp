@@ -1,4 +1,4 @@
-# Hypernymy Directionality
+# Hyp-Freq-Comp
 
 Code for the experiments in: "More than just Frequency? Demasking Unsupervised Hypernymy Prediction Methods." Thomas Bott, Dominik Schlechtweg and Sabine Schulte im Walde. Accepted to appear in *Findings of ACL 2021*
 
