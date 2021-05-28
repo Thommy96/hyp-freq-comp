@@ -1,0 +1,6 @@
+docopt
+tqdm
+sklearn
+numpy
+graphviz
+tabulate
