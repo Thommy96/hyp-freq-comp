@@ -14,7 +14,7 @@ Code for the experiments in: "More than just Frequency? Demasking Unsupervised H
 - numpy
 - tabulate (for creating tables)
 
-They can be installed by running: ```pip install -r requirements.txt``` in the terminal. Pickle should already be contained in the python standard library.
+They can be installed by running ```pip install -r requirements.txt``` in the terminal. Pickle should already be contained in the python standard library.
 
 ---
 
